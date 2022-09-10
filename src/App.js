@@ -12,19 +12,19 @@ function App() {
       id: 'e2',
       title: 'dhvt gf',
       amount: 684,
-      date : new Date(2021,7,14)
+      date : new Date(2021,5,15)
     },
     {
       id: 'e3',
       title: 'c n n',
       amount: 55,
-      date : new Date(2022,7,14)
+      date : new Date(2022,6,16)
     },
     {
       id: 'e4',
-      title: 'c n n',
+      title: 'c p n',
       amount: 55,
-      date : new Date(2022,7,14)
+      date : new Date(2022,5,17)
     }
   ]
   return (
